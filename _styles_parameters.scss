@@ -1,0 +1,23 @@
+// *--styles_parameters
+
+
+.screen {
+    height: 350px;
+    width: 200px;
+    display: grid;
+    // flex-direction: column;
+    // justify-content: space-between;
+}
+
+.container {
+    display: flex;
+}
+
+.but:focus{
+    border: 1px solid red;
+}
+
+// !codigo alternativo
+// .buttonActive{
+//     border: 1px solid red;
+// }
